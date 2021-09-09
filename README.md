@@ -19,7 +19,7 @@ new framework, etc. The purpose is `we are learning together`.
  - Please prepare your presentation slide or maybe some keynotes that you want to talk about.
  - The talk can be:
     - Lightning talks (5 - 10 minutes)
-      For those who are some interesting ideas but do not want to submit a full talk.
+      For those who has some interesting ideas but do not want to submit a full talk.
     - Talks (15 - 40 minutes)
       For those who are present whole ideas. Shorter sessions are preferred to avoid online fatigue of the audience.
     - Workshops (30 - 90 minutes)

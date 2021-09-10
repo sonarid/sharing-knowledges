@@ -1,2 +1,2 @@
 ## Daftar Talks
-- GIT Pull Request by Cendekia
+- GIT Pull Request by Kia
